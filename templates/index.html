@@ -4,14 +4,24 @@
 {% block main %}
 <div class="container">
  <h1>Quaker Microfarm Data Dashboard</h1>
- {% for number in [1,2,3,4] %}
+ {% for bed in beds %}
+   <ul>
+   {% for name, info in bed.items() %}
+     <li><b>{{ name }}</b> {{ info.get('plant') }}</li>
+
+   {% endfor %}
+   </ul>
+ {% endfor %}
+ {#
+ {% for letter in  ['a','b','c','d'] %}
    <div class="row">
-   {% for letter in ['a','b','c','d'] %}
+   {% for number in [1,2,3,4] %}
     <div class="col-md-3 alert alert-success" id="{{ letter }}{{ number }}"">
      <h2>Square</h2><h1>{{ letter }}{{ number }}</h1>
     </div>  
    {% endfor %}
    </div>
  {% endfor %}
+#}
 </div>
 {% endblock %}

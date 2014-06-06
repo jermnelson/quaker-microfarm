@@ -1,0 +1,82 @@
+{
+  "A1": {
+    "datePlanted": "2014-05-24T00:00:00", 
+    "pattern": "2x1", 
+    "plant": "Cucumber"
+  }, 
+  "A2": {
+    "datePlanted": "2014-05-24T00:00:00", 
+    "pattern": "4x4", 
+    "plant": "Basil"
+  }, 
+  "A3": {
+    "datePlanted": "2014-05-24T00:00:00", 
+    "pattern": "None", 
+    "plant": "Beets"
+  }, 
+  "A4": {
+    "datePlanted": "2014-05-24T00:00:00", 
+    "pattern": "", 
+    "plant": "Eggplant"
+  }, 
+  "B1": {
+    "datePlanted": "2014-05-24T00:00:00", 
+    "pattern": "None", 
+    "plant": "Parsley"
+  }, 
+  "B2": {
+    "datePlanted": "2014-05-24T00:00:00", 
+    "pattern": "1x1", 
+    "plant": "Marigold"
+  }, 
+  "B3": {
+    "datePlanted": "2014-05-24T00:00:00", 
+    "pattern": "3x3", 
+    "plant": "Carrots"
+  }, 
+  "B4": {
+    "datePlanted": "2014-05-24T00:00:00", 
+    "pattern": "3x3", 
+    "plant": "Green Beans"
+  }, 
+  "C1": {
+    "datePlanted": "2014-05-24T00:00:00", 
+    "pattern": "1x1", 
+    "plant": "Brussals Sprouts"
+  }, 
+  "C2": {
+    "datePlanted": "2014-05-24T00:00:00", 
+    "pattern": "1x1", 
+    "plant": "Peas"
+  }, 
+  "C3": {
+    "datePlanted": "2014-05-24T00:00:00", 
+    "pattern": "1x1", 
+    "plant": "Tomato"
+  }, 
+  "C4": {
+    "datePlanted": "2014-05-24T00:00:00", 
+    "pattern": "", 
+    "plant": "Kale"
+  }, 
+  "D1": {
+    "datePlanted": "2014-05-24T00:00:00", 
+    "pattern": "1x1", 
+    "plant": "Bell Peppers"
+  }, 
+  "D2": {
+    "datePlanted": "2014-05-24T00:00:00", 
+    "pattern": "4x4", 
+    "plant": "Green beans"
+  }, 
+  "D3": {
+    "datePlanted": "2014-05-24T00:00:00", 
+    "pattern": "", 
+    "plant": "Chives"
+  }, 
+  "D4": {
+    "datePlanted": "2014-05-24T00:00:00", 
+    "pattern": "1x1", 
+    "plant": "Marigold"
+  }
+}
